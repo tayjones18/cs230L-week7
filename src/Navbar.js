@@ -24,7 +24,7 @@ function Navbar() {
         </form>
             </div>
         </nav>
-);
+    );
 };
 
 export default Navbar;

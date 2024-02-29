@@ -10,8 +10,8 @@ function App() {
       <h2>Section - 001</h2>
       <p>WVU ID: 800392027</p>
       <p>Hi I am Taylor</p>
-      <Navbar/>
-      <Card/>
+      <Navbar />
+      <Card />
     </div>
   );
 }
