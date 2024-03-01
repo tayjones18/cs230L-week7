@@ -1,5 +1,5 @@
         
-function Card () {  
+const Card = () => {  
     return (
         <div class="card-deck">
         <div class="card">
