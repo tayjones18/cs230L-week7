@@ -12,6 +12,8 @@ function App() {
       <p>WVU ID: 800392027</p>
       <p>Hi I am Taylor</p>
       <Card />
+      <Card />
+      <Card />
     </div>
   );
 }
