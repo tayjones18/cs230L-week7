@@ -1,7 +1,6 @@
         
 const Card = () => {  
     return (
-        <div class="container"> 
         <div class="card-deck"> 
             <div class="col-lg-6 mb-4"> 
                 <div class="card text-white bg-primary mb-3 w-50">   
@@ -40,7 +39,6 @@ const Card = () => {
                 </div> 
             </div> 
         </div> 
-    </div>
     );
 };
 
