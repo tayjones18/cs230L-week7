@@ -2,7 +2,7 @@
 const Card = () => {  
     return (
         <div class ="container">
-        <div class="row"> 
+        <div class="row justify-content-center"> 
             <div class="col-md-3"> 
                 <div class="card text-white bg-primary mb-3 w-100">   
                     <div class="card-body"> 
